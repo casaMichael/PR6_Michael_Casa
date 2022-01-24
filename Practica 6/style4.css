@@ -1,0 +1,149 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 12pt; /* Tamaño letra*/
+    line-height: 1.2; /* Interlineado*/
+    background-color: wheat;
+}
+
+.datos {
+    margin-top: 20px;
+}
+.nombre {
+    margin-left: 110px;
+    margin-top: -20px;
+}
+ .apellidos {
+    margin-left: 110px;
+    margin-top: -22px;
+}
+
+.address {
+    margin-left: 110px;
+    margin-top: -22px;
+}
+
+.municipio {
+    margin-left: 300px;
+    margin-top: -43px;
+}
+
+.provincia {
+    margin-left: 300px;
+    margin-top: -43px;
+}
+
+.selectComunidad {
+    width: 100px;
+}
+
+.selectProvincia {
+    width: 120px;
+}
+
+.correo {
+    margin-left: 42px;
+    margin-top: 15px;
+}
+
+.contacto {
+    margin-left: 13px;
+    margin-top: 30px;
+}
+
+.fijo {
+    margin-top: -24px;
+    margin-left: 96px;
+}
+
+.movil {
+    margin-top: -45px;
+    margin-left: 400px;
+}
+
+sup {
+    font-size:small;
+}
+
+.datos :hover{
+    background-color: yellow;
+}
+.nombre :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.apellidos :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.contacto :hover{
+    background-color: yellow;
+    outline: none;
+}
+
+.fijo :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.movil :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+
+.address :hover{
+    background-color: yellow;
+}
+
+.calle :hover{
+    background-color: yellow;
+}
+
+.postal :hover{
+    background-color: yellow;
+}
+
+.nombre :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.calle :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.cp :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.comunidad :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.municipio :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.provincia :hover{
+    background-color: white;
+    border:3px solid orange ;
+}
+
+.correo :hover{
+    background-color: yellow;
+}
+
+.mail :hover{
+    background-color: white;
+    border:3px solid orange ;
+    outline: none;
+}
+
+

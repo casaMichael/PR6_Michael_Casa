@@ -1,0 +1,68 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 12pt; /* Tamaño letra*/
+    line-height: 1.2; /* Interlineado*/
+    margin: 0;
+    background-color: wheat;
+}
+
+h1 {
+    font-size: 24pt;
+    color: #6699CC;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+.titulo2{
+    color: black;
+    /*font-family: Arial, Times;*/
+    font-family: Courier;
+    font-size: 20pt;
+}
+
+.tmodulo1, .tmodulo2 {
+    font-family: Verdana;
+    font-size: 15pt;
+}
+
+.modulo1 ,.modulo2 {
+    font-size: 12pt;
+}
+
+h2 {
+  font-size: 24pt;
+  color: #33CCFF;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+a:link {
+    color: grey;
+    font-style: italic;
+  }
+
+a:visited {
+    color:red;
+    text-decoration: double;
+    font-weight: bold;
+  }
+  
+a:hover {
+    color: cadetblue;
+  }
+
+a:active {
+    color: pink;
+  }
+
+footer {
+
+}
+.pie {margin-top: 50px;
+    text-align: center;
+}
+
+
+
